@@ -1,6 +1,6 @@
 {
 
-"serverstatus":"true",
+"serverstatus":"false",
 
 "noticemode":"true",
 
@@ -12,7 +12,7 @@
 
 "libs":"https://github.com/Robion999/zarokeng-online-big/raw/refs/heads/main/RobionBig.zip",
 
-"notice_title": "Welcome ZAROK ENGINE 🚀",
+"notice_title": "Welcome ZAROK ENGINE ",
 
 "notice_body":""
 }
